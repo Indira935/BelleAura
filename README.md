@@ -13,4 +13,5 @@ Analyser les campagnes publicitaires sur les réseaux sociaux de BelleAura afin 
 - Ouvrir le fichier avec excel
 
 
+## Aperçu du dashboard
 <img width="1000" height="589" alt="Capture d’écran 2025-09-09 à 21 48 21" src="https://github.com/user-attachments/assets/d00aef82-523a-4dd0-ae41-97b74e853137" />
