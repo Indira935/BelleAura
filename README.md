@@ -1,4 +1,4 @@
-# BellAura - Analyse des campagnes publicitaires Cosmétiques sur les réseaux sociaux
+# BelleAura - Analyse des campagnes publicitaires Cosmétiques sur les réseaux sociaux
 
 ## Objectif
 Analyser les campagnes publicitaires sur les réseaux sociaux de BelleAura afin de proposer des recommandations stratégiques.
